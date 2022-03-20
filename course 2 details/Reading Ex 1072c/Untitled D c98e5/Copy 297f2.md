@@ -1,0 +1,3 @@
+# Copy
+
+Shortcut: Ctrl+C
