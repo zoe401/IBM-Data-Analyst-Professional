@@ -18,3 +18,6 @@ Course 9: IBM Data Analyst Capstone Project
 The material and information contained in this repository is captured from the course (IBM-Data-Analyst-Professional), and is provided for educational and informational purposes only.
 
 Credits: IBM, Coursera (https://www.coursera.org/professional-certificates/ibm-data-analyst)
+
+## About me
+I am studying programming on my own. 
