@@ -30,7 +30,7 @@ In this module, you will learn about the fundamentals of spreadsheet application
 - Access Excel on the Web.
 - Navigate around an Excel worksheet and workbook.
 
-[**Reading: Excel Keyboard Shortcuts**](Excel%20Basi%20cede5/Reading%20Ex%201072c.md)
+[Reading: Excel Keyboard Shortcuts](Excel%20Basi%20cede5/Reading%20Ex%201072c.md)
 
 [Summary and Highlights](Excel%20Basi%20cede5/Summary%20an%20e326c.md)
 
