@@ -1,3 +1,0 @@
-# Undo
-
-Shortcut: Ctrl+Z

@@ -1,3 +1,0 @@
-# Bold
-
-Shortcut: Ctrl+B

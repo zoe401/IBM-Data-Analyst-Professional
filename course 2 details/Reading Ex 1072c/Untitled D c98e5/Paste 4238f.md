@@ -1,3 +1,0 @@
-# Paste
-
-Shortcut: Ctrl+V
